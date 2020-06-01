@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 struct Node {
 	Node ( int x, int y, Node* parent = NULL,
 		Node* left = NULL, Node* right = NULL ) : counter ( 1 ),

@@ -1,6 +1,7 @@
 #include <iostream>
 #include <ctime>
 
+
 struct RSU {
 
 	RSU ( size_t size )
